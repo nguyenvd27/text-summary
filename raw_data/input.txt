@@ -1,11 +1,89 @@
-(CNN) Over and over again in 2018, during an apology tour that took him from the halls of the US Congress to an appearance before the European Parliament, Mark Zuckerberg said Facebook had failed to "take a broad enough view of our responsibilities."
+New York (CNN Business) Hackers are holding one of America's most important pipelines hostage , a stunning development that should serve as a warning to even bigger targets: the nation's financial industry.
 
-But two years later, Zuckerberg and Facebook are still struggling with their responsibilities and how to handle one of their most famous users: President Donald Trump.
+The nightmare scenario is that a Colonial Pipeline-style ransomware attack disrupts major banks or even financial markets, dealing a blow to the flow of money and confidence in the system. Instead of lines at gas stations, social media would be ablaze with images of broken ATMs or inaccessible brokerage accounts.
 
-Despite Zuckerberg having previously indicated any post that "incites violence" would be a line in the sand — even if it came from a politician — Facebook remained silent for hours Friday after Trump was accused of glorifying violence in posts that appeared on its platforms.
+The likelihood of seeing a major bank go completely offline is small but not impossible."
 
-At 12:53am ET on Friday morning, as cable news networks carried images of fires and destructive protests in Minneapolis, the President tweeted : "These THUGS are dishonoring the memory of George Floyd, and I won't let that happen. Just spoke to Governor Tim Walz and told him that the Military is with him all the way. Any difficulty and we will assume control but, when the looting starts, the shooting starts. Thank you!"
+These are not theoretical risks. Banks and stock exchanges overseas have been hit by damaging cyberattacks in recent years.
 
-His phrase "when the looting starts, the shooting starts," mirrors language used by a Miami police chief in the late 1960s in the wake of riots. Its use was immediately condemned by a wide array of individuals, from historians to members of rival political campaigns. Former Vice President and presumptive Democratic nominee Joe Biden said Trump was "calling for violence against American citizens during a moment of pain for so many."
+The good news is that banks and exchanges, more so than pipelines and other aging physical infrastructure, have some of the most robust cyber defenses in the private sector, security experts told CNN Business.
 
-Read More
+"Banks are definitely hardened targets. They are some of the hardest targets out there -- outside of the government itself," said Paul Prudhomme, a cyber threat intelligence advisor at IntSights and a former contractor in the US intelligence community. "But as we saw with SolarWinds, the government itself is not immune to compromise."
+
+If Russian hackers were able to infiltrate critical federal government agencies through the SolarWinds attack, nothing is completely safe from cyber threats.
+
+'Blind spots'
+
+Although big banks are believed to have strong defenses, security experts and industry officials fear hackers could infiltrate the industry through third parties with lax security.
+
+Brendan Conlon, who worked at the National Security Agency for over a decade, said that while big banks "practice good cyber hygiene," the consultants, law firms, contractors and vendors they rely on may not and could be vulnerable to ransomware
+
+"These institutions are likely to have blind spots in their critical supply chain," said Conlon, who is now vice chairman of cybersecurity firm BlueVoyant. "Over the last few years, they have focused on their own security. Now they need to acknowledge the risk that their less secure vendors are presenting to their business."
+
+The Financial Service Information Sharing and Analysis Center (FS-ISAC), the authority for cyber threats facing the industry, is aware of this threat.
+
+"Institutions with robust cybersecurity programs are well positioned to prevent ransomware attacks on their own networks but the risk to be impacted by third-party suppliers is increasing," FS-ISAC CEO Steven Silberstein told CNN Business in a statement.
+
+Silberstein also noted that ransomware operators have "grown and matured in sophistication, making it an area of concern."
+
+The financial industry is a large target for many different groups -- from organized criminals seeking to steal money to politically motivated groups attempting to make a statement.
+
+Nasdaq NDAQ In its annual report,said potential threats include attacks from foreign governments, hacktivists, insiders and criminal organizations.
+
+State-backed groups may have the capabilities to carry out sophisticated attacks, but most countries would not want to do so much damage that it hurt their own financial and economic interests.
+
+Jerome Powell's biggest fear isn't inflation, it's cyber
+
+The shutdown of the Colonial Pipeline, which delivers nearly half the gasoline and diesel to the East Coast, shows the real-world impact of increasingly sophisticated cyberattacks. Panic buying by nervous drivers amplified the supply crunch, sparking significant gas station outages in the Southeast.
+
+Federal Reserve Chairman Jerome Powell warned last month that cyberattacks are the No. 1 threat to the global financial system -- even more so than the lending and liquidity risks that sparked the 2008 financial crisis.
+
+During a 60 Minutes interview , Powell said one fear is that hackers manage to shut down a major payment processor, preventing money from flowing from one financial institution to another. That could cause part of the financial system to "come to a halt," Powell said.
+
+There is precedent for that.
+
+In 2016, Bangladesh's central bank was attacked by hackers that the FBI has blamed on North Korea . In February, the Justice Department charged three North Koreans of a conspiracy to steal and extort more than $1.3 billion in cash and cryptocurrency from banks and other businesses. Prosecutors accused the operatives of targeting banks around the world, including banks in Malta in 2019.
+
+Stock exchanges are huge targets
+
+New Zealand suffered a version of that last summer when a cyberattack that originated overseas caused periodic outages of the nation's stock exchange for several days. Unlike the Colonial Pipeline ransomware attack, the New Zealand Exchange was hit by a "sophisticated and severe" distributed denial of service (DDoS) attack. But the outcome was the same: a disruption to a critical piece of infrastructure.
+
+Wall Street exchanges know there is a large target on their backs.
+
+"Our role in the global marketplace may place us at greater risk for a cyberattack," Nasdaq warned investors in its annual report. The exchange added that much of its workforce is working remotely during the pandemic increased its reliance on the home network of employees.
+
+NYSE President Stacey Cunningham told CNBC earlier this week that the exchange is "constantly working" with its own team, regulators and other exchanges players to ensure "that our markets are secure."
+
+JPMorgan says future attacks are 'inevitable'
+
+More than $350 million in losses have been attributed to ransomware attacks this year alone, Homeland Security Secretary Alejandro Mayorkas said at Tuesday's White House briefing.
+
+"This threat is not imminent, it is upon us," Mayorkas said.
+
+Danny Jenkins, CEO of cybersecurity firm ThreatLocker, told CNN Business that banks get hit with attempted ransomware attacks "nearly everyday" but they're mitigated.
+
+"The likelihood of seeing a major bank go completely offline is small but not impossible," he said, adding there is "much higher probability" that ATM networks or major branches get disrupted.
+
+"JPMorgan Chase has experienced security breaches due to cyberattacks in the past, and it is inevitable that additional breaches will occur in the future," the bank said in its annual report , which mentions "cyber" 67 times, compared with just 17 times in 2014. "Any such breach could result in serious and harmful consequences for JPMorgan Chase or its clients and customers."
+
+JPMorgan JPM acknowledges it "does not have control over" the security of the systems of its many clients, customers, counterparties and third-party service providers. The bank added that its exposure to cyberattacks could be heightened by the fact that many of its employees are working remotely and due to the increased use of video conferencing apps.
+
+Hacks are getting more sophisticated -- and automated
+
+Biden administration officials have privately voiced frustration with what they view as Colonial Pipeline's weak security protocols and a lack of preparation, officials familiar with the government's investigation told CNN.
+
+"The financial sector tends to take security more seriously than oil and gas," said Jenkins, the ThreatLocker CEO. He cited larger IT budgets.
+
+Jon DiMaggio, a former intelligence community analyst, agrees, saying: "There are far easier targets than banks that can pay just as much."
+
+However, DiMaggio worries the risk-reward calculus will be altered by the fact that some sophisticated hackers have recently begun using automation to dramatically speed up their attacks, making them harder to detect.
+
+"It's going to be a much greater threat to financial institutions," said DiMaggio, chief security strategist at threat intelligence firm Analyst1.
+
+To keep up with the bad guys, he urged banks to rely more on cyber defenses powered by artificial intelligence.
+
+"As a threat hunter, I hate saying that because it puts guys like me out of a job," he said.
+
+Prudhomme, the IntSights executive, described it as a "constant cat-and-mouse game" between companies and hackers.
+
+"Just when you develop a new defense and you think you're squared away," he said, "some actor will find a way to circumvent it."

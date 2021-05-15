@@ -1,0 +1,152 @@
+#MainMenu {visibility: hidden;}
+
+footer {
+    visibility: hidden;
+}
+
+footer:after {
+  content:'Design by Vũ Đức Nguyễn';
+  text-align: center;
+  color: #ffffff;
+  visibility: visible;
+  display: block;
+  position: relative;
+  padding: 5px;
+  top: 2px;
+    background-image: url(https://ctt.hust.edu.vn/images/footer.png);
+    height: 100px;
+    margin: auto;
+    background-color: #aa261b;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    background-size: auto 100%;
+}
+
+.reportview-container .main footer {
+    max-width: 100%;
+    padding: .0;
+}
+
+/* header {
+    height: 100px !important;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-image: url(https://i.postimg.cc/028FzNbv/header5.jpg);
+    background-repeat: round;
+    background-size: cover;
+}
+
+header:after {
+    content: 'HANOI UNIVERSITY OF SCIENCE AND TECHNOLOGY';
+    text-align: center;
+    color: #aa261b;
+    font-size: 1.5rem;
+
+    display: block;
+    position: relative;
+    top: 20px;
+} */
+
+header {
+    height: 100px !important;
+    margin-top: auto;
+    margin-bottom: auto;
+    // background-image: url(https://i.postimg.cc/MZysVFXx/header1.jpg);
+    background-image: url(https://drive.google.com/uc?export=view&id=1-6oP_xEtZuAPAlpMiQ6VbtVamw2LF3f0);
+    display: flex !important;
+    background-repeat: no-repeat;
+    // background-size: auto 100px;
+}
+
+/*
+header:after {
+    content: 'Hanoi University Of Science And Technology \A School Of Information & Communication Technology';
+    white-space: pre-wrap;
+    text-align: center;
+    color: #aa261b;
+    font-size: 22px;
+    width: 100%;
+    display: block;
+    position: relative;
+    top: 20px;
+    font-family: Arial;
+}
+*/
+
+.css-17eq0hr {
+    margin-top: 100px;
+    width: 15rem !important;
+}
+
+.css-bauj2f {
+    margin-top: 100px;
+}
+
+.reportview-container .main .block-container {
+    max-width: 1400px;
+}
+
+.Widget>label, .st-bp, .st-dn, .st-cn {
+    color: #aa261b;
+}
+
+.st-b4 {
+    color: #aa261b;
+}
+
+.st-ej {
+    color: rgb(38, 39, 48) !important;
+}
+
+.e16nr0p32 {
+    visibility: hidden;
+}
+
+.alert-success {
+    color: #0f5132 !important;
+    background-color: #d1e7dd;
+    border-color: #badbcc;
+}
+
+.alert {
+    position: relative;
+    padding: 1rem 1rem !important;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
+
+.e16nr0p33, .effi0qh0, .st-bq {
+    color: #aa261b
+}
+
+textarea, input {
+  color: rgb(38, 39, 48) !important;
+}
+
+.doc {
+  background-color: #aa261b !important;
+  display: inline-block;
+  padding: .35em .65em;
+  font-size: .75em;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: .25rem;
+}
+
+.original-news {
+  // text-align: center;
+  margin-bottom: 0.5em;
+}
+
+hr {
+  margin: 1em 0px;
+}
+
+.e8zbici2 {
+  visibility: hidden;
+}
